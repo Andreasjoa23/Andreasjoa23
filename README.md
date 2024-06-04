@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello! 
+  My name is Andreas Solsem Joakimsen and welcome to my GitHub profile!
 
-<!--
-**Andreasjoa23/Andreasjoa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About Me
+  I'm a 30 year old man from Norway, I started to learn coding under a year ago and I am eager to learn and develop myself as a developer.
+  I’m currently learning Coding and design through Noroff school of Technology.
 
-Here are some ideas to get you started:
+ 💬 My Hobbies are:
+   * Gaming
+   * Movies
+   * Shows
+   * My passion is bouldering 🧗
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Skills and Tools
+- **Languages:**
+    * Html
+    * Css
+    * JS
+- **Design:** 
+    * Figma
+
+## 🔭 My Projects
+Here are a few projects I've been working on:
+- [RainyDays](https://github.com/Andreasjoa23/Rainydays) - My first ever coding project, this is when I started to code for the first time.
+- [Project 1 Name](https://github.com/Andreasjoa23/Semester-Project-1-Andreas) - My first semester project, roughly been coding for 2 months around the time this project happened.
+- [MovieNight(https://github.com/NoroffFEU/FED1-PE1-Andreasjoa23) - My first exam as a learning developer, I have been coding for around 6 months at this point.
+
+## 📫 How to Reach Me
+- **Email:** [Andreas_joakimsen4@hotmail.com]
+- **Facebook:** (https://www.facebook.com/andreas.joakimsen)
+- **Personal Website:** [Personal website under development]
