@@ -6,19 +6,19 @@
   I’m currently learning Coding and design through Noroff school of Technology.
 
  💬 My Hobbies are:
-   * Gaming
-   * Movies
-   * Shows
-   * My passion is bouldering 🧗
+  - Gaming
+  - Movies
+  - Shows
+  - My passion is bouldering 🧗
 
 ## 🧑‍💻 Skills and Tools
 - **Languages:**
-    * Html
-    * Css
-    * JS
+  - Html
+  - Css
+  - JS
       
 - **Design:** 
-    * Figma
+  * Figma
 
 ## 🔭 My Projects
 Here are a few projects I've been working on:
