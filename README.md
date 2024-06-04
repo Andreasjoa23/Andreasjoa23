@@ -22,8 +22,8 @@
 ## 🔭 My Projects
 Here are a few projects I've been working on:
 - [RainyDays](https://github.com/Andreasjoa23/Rainydays) - My first ever coding project, this is when I started to code for the first time.
-- [Project 1 Name](https://github.com/Andreasjoa23/Semester-Project-1-Andreas) - My first semester project, roughly been coding for 2 months around the time this project happened.
-- [MovieNight(https://github.com/NoroffFEU/FED1-PE1-Andreasjoa23) - My first exam as a learning developer, I have been coding for around 6 months at this point.
+- [DiscoveryDen](https://github.com/Andreasjoa23/Semester-Project-1-Andreas) - My first semester project, roughly been coding for 2 months around the time this project happened.
+- [MovieNight](https://github.com/NoroffFEU/FED1-PE1-Andreasjoa23) - My first exam as a learning developer, I have been coding for around 6 months at this point.
 
 ## 📫 How to Reach Me
 - **Email:** [Andreas_joakimsen4@hotmail.com]
