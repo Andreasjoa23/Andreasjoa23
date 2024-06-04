@@ -12,12 +12,12 @@
   - My passion is bouldering 🧗
 
 ## 🧑‍💻 Skills and Tools
-- **Languages:**
+  Languages:
   - Html
   - Css
   - JS
       
-- **Design:** 
+  Design:
   * Figma
 
 ## 🔭 My Projects
